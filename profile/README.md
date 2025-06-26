@@ -1,17 +1,23 @@
-# 🛠️ Business Application Platform
+## 📎Business Application Platform
 
-Daromir Tech Platform is designed for enterprise applications.
+Daromir Tech is an open-source Java platform designed for enterprise applications.
 
-We provide a set of individual libraries for developing web services in Java (using Spring Boot, Kafka, RabbitMQ, MySQL, or Postgres).
+We provide a set of individual libraries for developing web services in Java, utilizing Spring Boot, Kafka, RabbitMQ, MySQL, or PostgreSQL.
 It is a true open-source project released under the Apache license and was initially derived from the JHipster framework.
 
-Our motivation for developing the platform was to change the fundamental design and turn the existing framework into a set of libraries for Java developers.
+Our motivation for developing the platform was to overhaul the fundamental design and transform the existing framework into a set of libraries tailored for Java developers.
 We accomplish this by leveraging modern Java functionality, new technology, and modern tooling.
 
-The project aims to provide a fast and structured way to kickstart the development journey. By reducing redundant coding time it will allow you to set up new projects easily and efficiently.
+The project aims to provide a fast and structured way to kickstart the development journey. Reducing redundant coding time will allow you to set up new projects easily and efficiently.
 Build internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
-> #### Code conventions
+## 📐 App Scaffolding Templates
+
+This is a curated, organized, and searchable catalog of ready-to-use Spring Boot app examples designed to help you kickstart your project.
+
+Another approach is master programming by recreating popular web services utilizing the platform code, leveraging technology, business models, and industry best practices will accelerate growth.
+
+> #### 🚥 Code conventions
 >
-> The code follows [Google Code Conventions](https://google.github.io/styleguide/javaguide.html) without exceptions. Code
-> quality is measured by Sonarqube, [PMD](https://pmd.github.io/), [CheckStyle](https://checkstyle.sourceforge.io/), [SpotBugs](https://spotbugs.github.io/), [Qulice](https://www.qulice.com/)
+> The code follows [Google Code Conventions](https://google.github.io/styleguide/javaguide.html).
+> Code quality is measured by [SonarQube](https://docs.sonarsource.com/), [PMD](https://pmd.github.io/), [CheckStyle](https://checkstyle.sourceforge.io/), [SpotBugs](https://spotbugs.github.io/), [Qulice](https://www.qulice.com/)
