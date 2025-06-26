@@ -1,4 +1,4 @@
-# ✨ IQKV Foundation Project
+# ✨ Daromir Tech Foundation Project
 
 Launching successful apps has become crucial for growth in the competitive business landscape. However, building an app from scratch requires a significant investment of time and resources.
 
