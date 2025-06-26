@@ -1,6 +1,6 @@
 # 🛠️ Business Application Platform
 
-IQKV Foundation - an open-source Java library designed for enterprise applications.
+Daromir Tech Platform is designed for enterprise applications.
 
 We provide a set of individual libraries for developing web services in Java (using Spring Boot, Kafka, RabbitMQ, MySQL, or Postgres).
 It is a true open-source project released under the Apache license and was initially derived from the JHipster framework.
